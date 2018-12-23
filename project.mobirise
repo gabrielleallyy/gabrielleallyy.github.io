@@ -1081,7 +1081,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Page 10",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -1420,7 +1420,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "cultivation",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1518,7 +1518,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Author",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
